@@ -1,0 +1,306 @@
+# Translation of Plugins - Yada Wiki - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Yada Wiki - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-26 16:02:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Yada Wiki - Stable (latest release)\n"
+
+#: yada-wiki.php:151
+msgid "Method does not exist."
+msgstr "방법이 존재하지 않습니다. "
+
+#: yada-wiki.php:129 yada-wiki.php:140
+msgid "Whoah, partner!"
+msgstr "와, 파트너!"
+
+#: inc/functions-register-cpt.php:125
+msgid "Wiki Tag Not Found"
+msgstr "위키 태그가 없습니다"
+
+#: inc/functions-register-cpt.php:124
+msgid "Choose from the most used Wiki Tags"
+msgstr "가장 많이 사용된 위키 태그 중에서 선택하세요"
+
+#: inc/functions-register-cpt.php:123
+msgid "Add or remove Wiki Tags"
+msgstr "위키 태그를 추가하거나 삭제하세요"
+
+#: inc/functions-register-cpt.php:122
+msgid "Search Wiki Tags"
+msgstr "위키 태그 검색"
+
+#: inc/functions-register-cpt.php:121
+msgid "Separate tags with commas"
+msgstr "태그를 쉼표로 구분하세요"
+
+#: inc/functions-register-cpt.php:120
+msgid "Update Wiki Tag"
+msgstr "위키 태그를 업데이트하세요"
+
+#: inc/functions-register-cpt.php:119
+msgid "Edit Wiki Tag"
+msgstr "위키 태그를 수정하세요"
+
+#: inc/functions-register-cpt.php:118
+msgid "Add New Wiki Tag"
+msgstr "새 위키 태그를 추가하세요"
+
+#: inc/functions-register-cpt.php:117
+msgid "New Wiki Tag"
+msgstr "새 위키 태그"
+
+#: inc/functions-register-cpt.php:116
+msgid "Parent Wiki Tag:"
+msgstr "부모 위키 태그:"
+
+#: inc/functions-register-cpt.php:115
+msgid "Parent Wiki Tag"
+msgstr "부모 위키 태그"
+
+#: inc/functions-register-cpt.php:114
+msgid "All Wiki Tags"
+msgstr "모든 위키 태그"
+
+#: inc/functions-register-cpt.php:113
+msgid "Wiki Tags"
+msgstr "위키 태그"
+
+#: inc/functions-register-cpt.php:112
+msgctxt "Taxonomy Singular Name"
+msgid "Wiki Tag"
+msgstr "위키 태그"
+
+#: inc/functions-register-cpt.php:111
+msgctxt "Taxonomy General Name"
+msgid "Wiki Tags"
+msgstr "위키 태그"
+
+#: inc/functions-register-cpt.php:85
+msgid "Wiki Category Not Found"
+msgstr "위키 카테고리가 없습니다"
+
+#: inc/functions-register-cpt.php:84
+msgid "Choose from the most used Wiki Categories"
+msgstr "가장 많이 사용한 위키 카테고리 중에서 선택하세요"
+
+#: inc/functions-register-cpt.php:83
+msgid "Add or remove Wiki Category"
+msgstr "위키 카테고리를 추가하거나 삭제하세요"
+
+#: inc/functions-register-cpt.php:82
+msgid "Search Wiki Categories"
+msgstr "위키 카테고리 검색"
+
+#: inc/functions-register-cpt.php:81
+msgid "Separate categories with commas"
+msgstr "카테고리를 쉼표로 구분하세요"
+
+#: inc/functions-register-cpt.php:80
+msgid "Update Wiki Category"
+msgstr "위키 카테고리 업데이트"
+
+#: inc/functions-register-cpt.php:79
+msgid "Edit Wiki Category"
+msgstr "위키 카테고리 수정"
+
+#: inc/functions-register-cpt.php:78
+msgid "Add New Wiki Category"
+msgstr "새 위키 카테고리 추가"
+
+#: inc/functions-register-cpt.php:77
+msgid "New Wiki Category"
+msgstr "새 위키 카테고리"
+
+#: inc/functions-register-cpt.php:76
+msgid "Parent Wiki Category:"
+msgstr "부모 위키 카테고리"
+
+#: inc/functions-register-cpt.php:75
+msgid "Parent Wiki Category"
+msgstr "부모 위키 카테고리"
+
+#: inc/functions-register-cpt.php:74
+msgid "All Wiki Categories"
+msgstr "모든 위키 카테고리"
+
+#: inc/functions-register-cpt.php:73
+msgid "Wiki Categories"
+msgstr "위키 카테고리"
+
+#: inc/functions-register-cpt.php:72
+msgctxt "Taxonomy Singular Name"
+msgid "Wiki Category"
+msgstr "위키 카테고리"
+
+#: inc/functions-register-cpt.php:71
+msgctxt "Taxonomy General Name"
+msgid "Wiki Categories"
+msgstr "위키 카테고리"
+
+#: inc/functions-register-cpt.php:38
+msgid "A wiki custom post type"
+msgstr "위키 타입 게시물"
+
+#: inc/functions-register-cpt.php:37
+msgid "yada_wiki"
+msgstr "야다_위키"
+
+#: inc/functions-register-cpt.php:28
+msgid "Not found in trash"
+msgstr "휴지통에 없습니다."
+
+#: inc/functions-register-cpt.php:27
+msgid "Not found"
+msgstr "없습니다."
+
+#: inc/functions-register-cpt.php:26
+msgid "Search Wiki"
+msgstr "위키 검색"
+
+#: inc/functions-register-cpt.php:25
+msgid "Update"
+msgstr "업데이트"
+
+#: inc/functions-register-cpt.php:24
+msgid "Edit"
+msgstr "수정"
+
+#: inc/functions-register-cpt.php:23
+msgid "Add New"
+msgstr "새 페이지 추가"
+
+#: inc/functions-register-cpt.php:22
+msgid "Add New Wiki Page"
+msgstr "새 위키 페이지 추가"
+
+#: inc/functions-register-cpt.php:21
+msgid "View"
+msgstr "보기"
+
+#: inc/functions-register-cpt.php:20
+msgid "All Wiki Pages"
+msgstr "모든 위키 페이지"
+
+#: inc/functions-register-cpt.php:19
+msgid "Parent:"
+msgstr "부모:"
+
+#: inc/functions-register-cpt.php:18
+msgid "Wiki Pages"
+msgstr "위키 페이지"
+
+#: inc/functions-register-cpt.php:17
+msgctxt "Post Type Singular Name"
+msgid "Wiki"
+msgstr "위키"
+
+#: inc/functions-register-cpt.php:16
+msgctxt "Post Type General Name"
+msgid "Wiki Pages"
+msgstr "위키 페이지"
+
+#: inc/functions-widgets.php:74
+msgid "Creation Date"
+msgstr "작성일"
+
+#: inc/functions-widgets.php:74
+msgid "date"
+msgstr "날짜"
+
+#: inc/functions-widgets.php:73
+msgid "Title A-Z"
+msgstr "제목 알파벳순"
+
+#: inc/functions-widgets.php:73
+msgid "title"
+msgstr "제목"
+
+#: inc/functions-widgets.php:70
+msgid "Select Order"
+msgstr "정렬 방식"
+
+#: inc/functions-widgets.php:63
+msgid "Order (used only if category selected):"
+msgstr "정렬(선택한 카테고리만):"
+
+#: inc/functions-widgets.php:53
+msgid "Select Category"
+msgstr "카테고리 선택"
+
+#: inc/functions-widgets.php:46
+msgid "Category (optional):"
+msgstr "카테고리(선택):"
+
+#: inc/functions-widgets.php:42
+msgid "Title:"
+msgstr "제목:"
+
+#: inc/functions-widgets.php:13
+msgid "Yada Wiki TOC"
+msgstr "야다 위키 TOC"
+
+#: inc/functions-settings.php:201
+msgid "Only lower case letters are allowed"
+msgstr "영어 소문자만 가능합니다"
+
+#: inc/functions-settings.php:196
+msgid "Comment options must be enabled<br />for defauts to be set.<br /><br />Remember, only wiki links can be<br />used with the wiki shortcodes.<br /><br />The Wiki Slug should only contain lower case letters.<br />"
+msgstr "기본값을 설정하려면 <br />댓글 옵션을 활성화 해야 합니다.<br /><br />위키 링크만 <br />단축코드로 사용할 수 있습니다.<br /><br />위키 슬러그는 소문만 포함해야 합니다<br />"
+
+#: inc/functions-settings.php:86
+msgid "Use the new Gutenberg Editor for Wiki Pages"
+msgstr "새 위키 페이지에 새 구텐베르크 에디터를 사용하세요"
+
+#: inc/functions-settings.php:78
+msgid "Change the Wiki Slug Used in the Permalink (see rules below)"
+msgstr "퍼머 링크에서 사용되는 위키 슬러그 변경( 아래 규칙 참조 )"
+
+#: inc/functions-settings.php:70
+msgid "Show Wiki Shortcode Buttons for Regular Posts and Pages"
+msgstr "일반 게시물과 페이지에 대한 위키 단축 코드 표시합니다"
+
+#: inc/functions-settings.php:62
+msgid "On new wiki page: allow trackbacks and pingbacks checked by default"
+msgstr "새 위키 페이지: 기본적으로 선택되는 트랙백과 핑백 허용합니다"
+
+#: inc/functions-settings.php:54
+msgid "On new wiki page: allow comments checked by default"
+msgstr "새 위키 페이지: 기본적으로 주석 선택 허용"
+
+#: inc/functions-settings.php:46
+msgid "Enable Comment Options"
+msgstr "댓글 옵션 설정"
+
+#: inc/functions-settings.php:39
+msgid "Wiki Options"
+msgstr "위키 옵션"
+
+#: inc/functions-settings.php:13
+msgid "Settings"
+msgstr "설정"
+
+#. Author URI of the plugin
+msgid "https://www.webtng.com"
+msgstr "https://www.webtng.com"
+
+#. Author of the plugin
+msgid "David McCan"
+msgstr "David McCan"
+
+#. Description of the plugin
+msgid "This plugin provides a simple wiki for your WordPress site."
+msgstr "이 플러그인은 당신의 워드프레스에 간단한 위키 기능을 제공합니다. "
+
+#. Plugin URI of the plugin
+msgid "https://www.webtng.com/yada-wiki-documentation"
+msgstr "https://www.webtng.com/yada-wiki-documentation"
+
+#. Plugin Name of the plugin
+msgid "Yada Wiki"
+msgstr "Yada Wiki"
